@@ -9,6 +9,19 @@
   
 </h3>
 
+<p>
+Hi there! I'm a third-year Computer Science student with a strong passion for software development cycle and backend development. <br/>
+Over the past two years, I've honed my skills as a self-learner and gained expertise in developing backend applications using modern programming languages and frameworks. <br/>
+I'm also proficient in using React and Redux for frontend web development. <br/>
+
+To broaden my knowledge and skills, I took it upon myself to learn the basics of cloud development(AWS), allowing me to understand every aspect of the software development cycle. <br/>
+I'm always seeking opportunities to contribute to open-source projects and collaborate with other developers.<br/>
+
+In my free time, I enjoy reading books on system design architectures, as it helps me stay up-to-date with the latest industry trends and best practices.<br/>
+
+Overall, I'm a dedicated and passionate software developer, eager to take on new challenges and contribute to meaningful projects.<br/>
+</p>
+
 <h3> 📫 Contact Me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orcohen33/)](http://www.linkedin.com/in/eyalevi)
