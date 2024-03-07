@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Or</h1>
-<h3 align="center">Computer Science student at Ariel University</h3>
+<h3 align="center">DevOps Engineer & Backend Developer</h3>
 
 <h3 align="center"> 
 
@@ -10,21 +10,22 @@
 </h3>
 
 <p>
-Hi there! I'm a third-year Computer Science student with a strong passion for software development cycle and backend development. <br/>
-Over the past two years, I've honed my skills as a self-learner and gained expertise in developing backend applications using modern programming languages and frameworks. <br/>
-I'm also proficient in using React and Redux for frontend web development. <br/>
+Hi there! I'm a DevOps Engineer with a strong passion for backend development and application lifecycles. I've recently graduated with a Bachelor of Computer Science studies at Ariel University. <br/>
 
-To broaden my knowledge and skills, I took it upon myself to learn the basics of cloud development(AWS), allowing me to understand every aspect of the software development cycle. <br/>
-I'm always seeking opportunities to contribute to open-source projects and collaborate with other developers.<br/>
+Over the past year, I've been working as a DevOps Engineer, gaining hands-on experience with Azure and Azure DevOps. This role has allowed me to deepen my understanding of the software development cycle and streamline the deployment process. <br/>
 
-In my free time, I enjoy reading books on system design architectures, as it helps me stay up-to-date with the latest industry trends and best practices.<br/>
+Alongside my DevOps responsibilities, I continue to pursue my interest in backend development. I'm proficient in using modern programming languages and frameworks like Java, Python, and Spring for building robust and scalable backend services. <br/>
 
-Overall, I'm a dedicated and passionate software developer, eager to take on new challenges and contribute to meaningful projects.<br/>
+To broaden my knowledge and skills, I've also explored cloud development with AWS, allowing me to know multi-cloud. <br/>
+
+I'm always seeking opportunities to contribute to open-source projects and collaborate with other developers, as I believe in the power of community and knowledge sharing.<br/>
+
+Overall, I'm a dedicated and passionate software professional, eager to take on new challenges and contribute to meaningful projects that drive innovation.<br/>
 </p>
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orcohen33/)](http://www.linkedin.com/in/eyalevi)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orcohen33/)](https://www.linkedin.com/in/orcohen33/)
 [![Gmail Badge](https://img.shields.io/badge/-orcohen3322@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orcohen3322@gmail.com)](mailto:orcohen3322@gmail.com)
 
 
@@ -32,30 +33,36 @@ Overall, I'm a dedicated and passionate software developer, eager to take on new
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <span>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=java,python,bash,powershell" />
 </span>
 
-<h4 align="left">Data bases:</h3>
+<h4 align="left">DevOps & Cloud:</h3>
+<p align="left"> 
+<span>
+  <img src="https://skillicons.dev/icons?i=azure,aws" /></br>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker" /></br>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" /></br>
+  <img src="https://skillicons.dev/icons?i=git,github" /></br>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" /></br>
+</span>
+
+</br></br>
+<h2>Also know:</h2>
+<h4 align="left">Databases:</h3>
 <p align="left"> 
 
 <span>
   <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres" />
 </span>
+</p>
 
-<h4 align="left">Frameworks, Platforms and Libraries:</h3>
+<h4 align="left">Web Frameworks:</h3>
 <p align="left"> 
 <span>
   <img src="https://skillicons.dev/icons?i=spring,react,flask" />
 </span>
 
-<h4 align="left">Other:</h3>
-<p align="left"> 
-<span>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,maven" />
-</span>
-
 </br></br>
-</p>
 <h1>📈 Github Stats:</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orcohen33&theme=slateorange&layout=compact" />
